@@ -1,5 +1,4 @@
 import { Component, Output } from '@angular/core';
-import { LoggingService } from '../logging.service';
 import {AccountService} from '../account.service';
 
 @Component({
